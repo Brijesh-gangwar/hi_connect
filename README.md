@@ -5,7 +5,6 @@ A simple and intuitive real-time chat application built with Flutter and Firebas
 ## Features 🚀
 
 - **User Authentication**: Sign up and login with Firebase Authentication (email/password) 🔐.
-- **Real-time Messaging**: Send and receive messages in real-time using Firebase Firestore 📲.
 - **Image Sharing**: Upload and send images as part of chat 📸.
 - **Chat Room Creation**: Users can create and join different chat rooms 💬.
 - **Profile Management**: Users can set their profile name and picture 👤.

@@ -23,5 +23,5 @@ A simple and intuitive real-time chat application built with Flutter and Firebas
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/flutter-chat-app.git
-cd flutter-chat-app
+git clone https://github.com/Brijesh-gangwar/hi_connect.git
+

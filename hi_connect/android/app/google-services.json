@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795451800994",
+    "project_id": "chattingapp-740f1",
+    "storage_bucket": "chattingapp-740f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795451800994:android:b4615c77503f5bdd5b86fb",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQruwCvH41JY4MLY7R9xGv1zL_vZKYves"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795451800994:android:5b14942ee59729295b86fb",
+        "android_client_info": {
+          "package_name": "com.example.hi_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQruwCvH41JY4MLY7R9xGv1zL_vZKYves"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
